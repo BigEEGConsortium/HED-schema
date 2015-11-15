@@ -1,4 +1,4 @@
-{"name": "HED Tags in all CTA Data (3,021,365)", "children": [
+{"name": "All CTA tagged events (3,021,365)", "children": [
 	{"name":"Action (431,771)", "size":100, "children":[
 		{"name":"Control Vehicle (64,831)", "size":100, "children":[
 			{"name":"Drive (64,831)", "size":100, "children":[
