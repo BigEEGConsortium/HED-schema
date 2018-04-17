@@ -1,5 +1,7 @@
 # Hierarchical Event Descriptor (HED)
 
-This repository contains HED schema (in wiki format) and hedtags.org website.
+This repository contains the HED schema (in wiki format) and the hedtags.org website.
 
-For information regarding HED please visit: <http://www.hedtags.org>
+For the HED schema please visit: <https://github.com/BigEEGConsortium/HED-schema/wiki>
+
+For more general information regarding HED please visit: <http://www.hedtags.org>
