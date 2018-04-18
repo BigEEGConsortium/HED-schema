@@ -46,18 +46,13 @@ and many others.
 
 ## Institutions
 
-<div width = "100%">
-<div width = "100%" align = "center" style="float:left">
-<a href="http://qusp.io"  align="center"><img src="/images/qusp-labs-thick-logo-400px.png" align="center" height="100px" ></a>
-</div><p/>
-<div width = "100%" align = "center" style="float:center; overflow: hidden">
-<a href="http://visual.cs.utsa.edu/"  align="center" ><img src="/images/utsa_logo.png" align="center" height="55px" ></a>
-</div><p/>
-<div width = "100%" align = "center" style="float:left">
-<a href="http://sccn.ucsd.edu"  align="center"><img src="/images/ucsd-logo.png" align="centeer" height="50px" ></a>
+<div width = "100%"  align = "center" style="float:center">
+<img src="http://bigeegconsortium.github.io/combined_logos_2.png" align="center" >
 </div>
-</div>
-<p/>
+
+- [Intheon Labs](https://intheon.io)
+- [University of Texas at San Antonio](http://visual.cs.utsa.edu/)
+- [Swartz Center for Computational Neuroscience, University of California, San Diego](http://sccn.ucsd.edu)
 
 ***
 
