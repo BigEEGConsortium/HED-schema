@@ -1,0 +1,8 @@
+title: Hierarchical Event Descriptor (HED) Tags and related tools
+description: Removing the pain from EEG data sharing
+google_analytics: UA-46460712-3
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
