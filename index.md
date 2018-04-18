@@ -45,6 +45,7 @@ Follow these steps:
 and many others.
 
 ## Institutions
+
 <div width = "100%">
 <div width = "100%" align = "center" style="float:left">
 <a href="http://qusp.io"  align="center"><img src="/images/qusp-labs-thick-logo-400px.png" align="center" height="100px" ></a>
