@@ -3,7 +3,8 @@
 HED tags are assigned to event codes (also known as triggers or event numbers) in EEG recordings and allow humans and computers to better understand what these codes represent (e.g. code #5 -> Target detection in an RSVP paradigm). [Click here](/interactive) to see an interactive visualization of HED hierarchy.
 
 You can use the [Online HED validator](http://netdb1.cs.utsa.edu/hed) to validate your HED tags.
-
+<button type="button">Click Me!</button>
+<button name="button" onclick="http://www.google.com">Click me</butto
 
 [<img src="/images/HED_tree_brief.png">](/interactive)
 ===
