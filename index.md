@@ -1,6 +1,6 @@
 ![](/images/HED_connected_logo_100.png)
 
-HED tags are assigned to event codes (also known as triggers or event numbers) in EEG recordings and allow humans and computers to better understand what these codes represent (e.g. code #5 -> Target detection in an RSVP paradigm). [Click here](/interactive) to see an interactive visualization of HED hierarchy.
+HED tags are assigned to event codes (also known as triggers or event numbers) in EEG recordings and allow humans and computers to better understand what these codes represent (e.g. code #5 -> Target detection in an RSVP paradigm). [Click here](/interactive) to see an interactive visualization of HED hierarchy (note: it shows an an older version of HED schema). The latest version of the schema is available [here](http://www.hedtags.org/schema) in wiki format.
 
 <a href="http://netdb1.cs.utsa.edu/hed"> <button name="button">Online HED validator</button></a>
 
