@@ -1,11 +1,7 @@
 # Hierarchical Event Descriptor (HED)
 
-This repository contains the HED schema (in wiki format) and the hedtags.org website.
+This is a deprecated repository containing older versions of the HED schema (in wiki format). The site has been superceded by <https://github.com/hed-standard>. The new site consolidates all of the HED information from different sources.
 
-For the HED schema please visit: <https://github.com/BigEEGConsortium/HED-schema/wiki>
+For the HED schema please visit: <https://github.com/hed-standard/hed-specification/wiki>. 
 
-For more general information regarding HED please visit: <http://www.hedtags.org>
-
-An extensive collection of validation tools in MATLAB and python are available at:  https://github.com/VisLab/HEDTools.
-
-You can also find an online HED validator for spreadsheets at: http://netdb1.cs.utsa.edu/hed.
+For more general information regarding HED please visit: <http://www.hedtags.org>. The associated github site contains all of the tools including links to documentation, publications and the online validator.
